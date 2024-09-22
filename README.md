@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on migrating my portfolio 
+- 🔭 I’m currently working on migrating my portfolio.
 - 🌱 I’m currently learning Next.js  
 - 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
 <!--
