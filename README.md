@@ -1,12 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on migrating my portfolio.
-- 🌱 I’m currently learning Next.js  
+- 🔭 I’m currently working on migrating my portfolio.  
 - 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
 <!--
 **iamharie/iamharie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Next.js
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
