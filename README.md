@@ -1,11 +1,11 @@
 ## Hi there 👋 👨🏼‍💻
 - 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
 
-## Work in progress ⚙️
+### Work in progress ⚙️
 - Full Stack Online Food Delivery Application
 - Portfolio; Testing 💛
 
-## Work Completed ✅
+### Work Completed ✅
 - Portfolio Migration
 
 <!--
