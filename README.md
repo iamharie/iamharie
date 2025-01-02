@@ -1,4 +1,4 @@
-## Hi there 👋 👨🏼‍💻
+## Hi there 👋 👨🏼‍💻 | HAPPY NEW YEAR 🥳
 - 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
 
 ### Work in progress ⚙️
