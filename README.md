@@ -2,8 +2,8 @@
 - 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
 
 ### Work in progress ⚙️
-- Learning Spring Framework
-- Full Stack Online Food Delivery Application
+- Resume Builder with OpenAI API: Get a Tailored Resume Delivered to Your Inbox in One Click
+- E-commerce Platform: Authentication, React/TypeScript, Spring Boot, Spring Data JPA, Stripe Integration, PostgreSQL, AWS EC2 & S3
 
 ### Work Completed ✅
 - Portfolio Migration
