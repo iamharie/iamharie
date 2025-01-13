@@ -1,5 +1,6 @@
 ## Hi there 👋 👨🏼‍💻
 - I’m looking to collaborate with devs to build a fullstack "AI Resume Builder" web app, if you are intrested please feel free to reach out via email or linkedIn.
+- https://github.com/iamharie/Resume-Builder 
 
 ### Work in progress ⚙️
 - Resume Builder with OpenAI API: Get a Tailored Resume Delivered to Your Inbox in One Click
