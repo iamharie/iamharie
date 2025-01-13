@@ -1,5 +1,5 @@
 ## Hi there 👋 👨🏼‍💻
-- 👯 I’m looking to collaborate with devs to build a fullstack web application as part of a hands on brush-up for my job interview.
+- I’m looking to collaborate with devs to build a fullstack "AI Resume Builder" web app, if you are intrested please feel free to reach out via email or linkedIn.
 
 ### Work in progress ⚙️
 - Resume Builder with OpenAI API: Get a Tailored Resume Delivered to Your Inbox in One Click
@@ -69,7 +69,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:haranhari350@gmail.com" target="_blank">
+  <a href="mailto:hariharnmohan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hariee/" target="_blank">
